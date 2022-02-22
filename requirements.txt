@@ -1,0 +1,12 @@
+AppKit==0.2.8
+matplotlib==3.5.1
+numpy==1.19.5
+pyaudio==0.2.11
+pyautogui==0.9.53
+PyGObject==3.40.1
+PyQt4==4.11.4
+pyqtgraph==0.12.3
+scipy==1.8.0
+selenium==4.1.0
+sounddevice==0.4.4
+win32gui==221.6
